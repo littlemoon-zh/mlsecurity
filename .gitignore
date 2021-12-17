@@ -1,5 +1,5 @@
 
 .idea/
-lab3/data/*.h5
-
+lab3/data/
+lab3/__pycache__/
 
