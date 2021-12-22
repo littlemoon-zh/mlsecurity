@@ -15,3 +15,19 @@
 cd lab3
 python myeval.py img.jpg
 ```
+
+# project section
+
+usage:
+```shell script 
+cd lab3
+python p_eval.py model_filename data_filename img_filename
+# output: a number
+```
+
+example: 
+```shell script
+cd lab3
+python p_eval.py models/bd_net.h5 data/cl/valid.h5 img.png
+# output: 1283
+```
